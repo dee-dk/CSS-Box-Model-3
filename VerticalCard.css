@@ -1,0 +1,68 @@
+body {
+background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-card {
+  width: 25%;
+  height: 700px;
+  background-color: white;
+  margin: 50px auto;
+  border-radius: 50px;
+  background-image: url(./ant.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.Profile-Image {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  /* padding: 50px; */
+  margin: 150px auto;
+  margin-bottom: 10px;
+  box-shadow: 5px 5px 10px rgb(130, 130, 131);
+}
+
+h1 {
+  margin: 0;
+  color: #444440;
+}
+span {
+  color: grey;
+  margin: 0 auto;
+}
+
+.followers {
+  width: 200px;
+  margin: 0 auto;
+}
+h1.number-twelve {
+  margin-bottom: 0;
+  color: dodgerblue;
+  font-size: 40px;
+}
+
+span {
+  margin-top: 0px;
+  color: rgb(161, 161, 161);
+  font-size: large;
+}
+
+button {
+  width: 70%;
+  height: 41px;
+  margin-top: 10px;
+  background-color: #fed01a;
+  border-style: none;
+  border-radius: 30px;
+  font-size: larger;
+  color: black;
+  font-weight: bold;
+}
+.bottom-para {
+  margin: 15px auto;
+  width: 80%;
+  color: grey;
+  font-size: larger;
+}
